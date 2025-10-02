@@ -3,7 +3,7 @@
 Hi, this is the code repository for "Label-guided Teacher for Surgical Phase
 Recognition via Knowledge Distillation" (Accepted by MICCAI2024) in PyTorch.
 
-![avatar](https://github.com/guascy666/Label-guided-teacher-for-surgical-phase-recognition/edit/main/model.png)
+![avatar](https://github.com/guascy666/Label-guided-teacher-for-surgical-phase-recognition/blob/main/model.png)
 
 In this paper, we propose a novel label-guided teacher network for knowledge
 distillation. Specifically, our teacher network takes both video frames and
