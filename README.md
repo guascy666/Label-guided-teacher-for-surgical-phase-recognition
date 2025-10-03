@@ -21,7 +21,7 @@ taking only video frames as input.
 # Model Training
 ## Data processing
 Please downsample the original video data to 1fps and runing get_path_labels.py and get_path_labels40_40.py
-## Traing feature extractor
+## Training feature extractor
 Run train_swin_backbone.py to train the feature extractor. After training, run extract_swin_spatial_feature_1024_40_40.py to extract features.
 
 ## Training teacher and student model
